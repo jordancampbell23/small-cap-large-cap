@@ -1,7 +1,7 @@
 **Materials**
 
 - [**App Link**](https://reason.shinyapps.io/esg_data_app/)
-/ 
+
 - **Code (see files above)**
 
 - **Pre-Work:**
