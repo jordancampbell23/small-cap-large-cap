@@ -1,4 +1,4 @@
-_ **Materials** _
+**Materials**
 
 - [**App Link**](https://reason.shinyapps.io/esg_data_app/)
 - **Code**
