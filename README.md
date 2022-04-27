@@ -20,6 +20,6 @@
       - Generate pie charts of the indices by sector
   - ***Challenge #2:***
     - Add some brief explanatory text to guide the user and identify a few key insights. A couple sentences will do. You can use observations about how the title is formatted to position/align text.
-    - Shiny tags documentation
+    - [Shiny tags documentation](https://shiny.rstudio.com/articles/tag-glossary.html)
   - ***CSS Challenge:***
     - Go to [Google Fonts](https://fonts.google.com/) and select your favorite font and replace &#39;Open Sans&#39; in the style.css file. Does it show up in the app?
