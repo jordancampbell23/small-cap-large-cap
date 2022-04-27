@@ -1,10 +1,9 @@
-# small-cap-large-cap
-
-Materials
-•	App Link
-•	Code
-•	Pre-Work:
-o	Data (run the EDA code)
+# Materials
+  - App Link
+  - Code
+  - Pre-Work:
+  -   Data (run the EDA code)
+  -   
 	Look through and run the EDA file to get a sense of the data
 o	Shiny (check out the following code and documentation)
 	Open up the utilities folder (we’re only utilizing the data_card() function)
