@@ -1,7 +1,9 @@
 **Materials**
 
 - [**App Link**](https://reason.shinyapps.io/esg_data_app/)
+/ 
 - **Code (see files above)**
+
 - **Pre-Work:**
   - **Data (run the EDA code)**
     - Look through and run the EDA file to get a sense of the data
