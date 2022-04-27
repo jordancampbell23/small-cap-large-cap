@@ -10,7 +10,7 @@
   - **Shiny (check out the following code and documentation)**
     - Open up the utilities folder (we're only utilizing the data_card() function)
     - [conditionalPanel](https://shiny.rstudio.com/reference/shiny/1.6.0/conditionalPanel.html)
-    - pickerInput
+    - [pickerInput](https://dreamrs.github.io/shinyWidgets/reference/pickerInput.html)
   - **echarts4r (inspect the chart code)**
     - While the R version [website](https://echarts4r.john-coene.com/) contains good documentation, a lot of the inputs in the current app were modified based on interpreting the JavaScript [documentation](https://echarts.apache.org/en/option.html#title) in R.
     
