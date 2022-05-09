@@ -150,6 +150,7 @@ server <- function(input, output, session) {
     
     df |>
       filter(Sector %in% input$sector_filter) |>
+      mutate(ESG = as.numeric(ESG)) |>
       group_by(Index) |>
       e_charts() |>
       e_density(ESG,
